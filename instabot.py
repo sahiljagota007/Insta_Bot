@@ -75,7 +75,7 @@ def own_data():
         print "Enter 3 to get your info"
         print "Enter 4 to download most liked post"
         print "Enter 5 to download most commented post"
-        print "Enter 6 to delete negative comments of your posts"
+        print "Enter 6 to delete negative comments of your post"
         print "Enter 7 to get comments percentage of your posts with piechart"
         print "Enter 8 to Exit."
 
